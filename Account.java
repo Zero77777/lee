@@ -3,4 +3,5 @@ public class Account{
    private String repo2;
    private String repo1;
    private String repo3;
+   private String https;
 }
